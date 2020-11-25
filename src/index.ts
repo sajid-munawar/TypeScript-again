@@ -6,3 +6,6 @@ let c = {
 }
 let d= c.apple*4
 console.log(d)
+if (a && b) {
+    console.log("available")
+}
